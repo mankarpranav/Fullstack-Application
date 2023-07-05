@@ -1,9 +1,5 @@
 import { Link, useNavigate, useParams } from "react-router-dom";
 
-
-
-
-
 import { useState, useEffect } from "react";
 import VehicleService from "../Services/VehicleService";
 
