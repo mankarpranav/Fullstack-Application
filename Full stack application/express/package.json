@@ -1,18 +1,18 @@
 {
-  "name": "nodeprac",                      // Name of the project
-  "version": "1.0.0",                      // Project version
-  "description": "",                       // Project description
-  "main": "index.js",                      // Entry point of the application
+  "name": "nodeprac",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
   "dependencies": {
-    "mysql": "2.18.1",                     // MySQL library version
-    "nodemon": "^1.2.1",                   // Nodemon library version
-    "body-parser": "^1.19.0",              // Body-parser library version
-    "express": "^4.16.4",                  // Express library version
-    "cors": "^2.8.5"                       // CORS library version
+    "mysql": "2.18.1",
+    "nodemon": "^1.2.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "cors": "^2.8.5"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"   // Test script (placeholder)
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",                            // Project author
-  "license": "ISC"                         // Project license
+  "author": "",
+  "license": "ISC"
 }
